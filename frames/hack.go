@@ -1,4 +1,8 @@
+package frames
 
+var Forrest = DefaultFrameType(forrestFrames)
+
+var forrestFrames = []string{
 
 
 888    888                                                                                                          
@@ -89,3 +93,4 @@ Y88b  d88P
                 888                                                                                                 
            Y8b d88P                                                                                                 
             "Y88P"                                                                                                  
+}
